@@ -1,0 +1,718 @@
+[
+    {
+        "dataset": "curatedtrec",
+        "question": "When is Fashion week in NYC?",
+        "answers": [
+            "Sept?(ember)?|Feb(ruary)?"
+        ],
+        "positive_ctxs": [
+            {
+                "title": "Toronto Fashion Week",
+                "text": "by Jay Manuel, Creative Director of America's Next Top Model and host of Canada's Next Top Model, on behalf of Sears Canada. Model Rachel Romu attracted national media attention when she became the first model to walk the Toronto Fashion Week runway with a mobility aid, presenting designer Hayley Elsaesser's fashion collection while using a cane. Suzanne Cohon is currently Toronto Fashion Week's Fashion, Arts and Cultural Ambassador, and Carolyn Quinn is Executive Director. Toronto Fashion Week Toronto Fashion Week (TFW), held in February (for fall/winter collections) and September (for spring/summer collections) of each year, is a semi-annual event celebrating",
+                "score": 18.936718,
+                "title_score": 0,
+                "psg_id": "16827770",
+                "topic": "fashion"
+            },
+            {
+                "title": "Milan Fashion Week",
+                "text": "Milan Fashion Week Milan Fashion Week () is a clothing trade show held semi-annually in Milan, Italy. The autumn/winter event is held in February/March of each year, and the spring/summer event is held in September/October of each year. Milan Fashion Week, established in 1958, is part of the global \"Big Four fashion weeks\", the others being Paris Fashion Week, London Fashion Week and New York Fashion Week. The schedule begins with New York, followed by London, and then Milan, and ending with Paris. Milan Fashion Week is partially organized by (The National Chamber for Italian Fashion), a non-profit association which",
+                "score": 18.578667,
+                "title_score": 0,
+                "psg_id": "12216838",
+                "topic": "fashion"
+            },
+            {
+                "title": "Milan Fashion Week",
+                "text": "the various stages of production.\" Milan Fashion Week Milan Fashion Week () is a clothing trade show held semi-annually in Milan, Italy. The autumn/winter event is held in February/March of each year, and the spring/summer event is held in September/October of each year. Milan Fashion Week, established in 1958, is part of the global \"Big Four fashion weeks\", the others being Paris Fashion Week, London Fashion Week and New York Fashion Week. The schedule begins with New York, followed by London, and then Milan, and ending with Paris. Milan Fashion Week is partially organized by (The National Chamber for Italian",
+                "score": 18.521744,
+                "title_score": 0,
+                "psg_id": "12216843",
+                "topic": "fashion"
+            },
+            {
+                "title": "Toronto Fashion Week",
+                "text": "Toronto Fashion Week Toronto Fashion Week (TFW), held in February (for fall/winter collections) and September (for spring/summer collections) of each year, is a semi-annual event celebrating fashion, arts and culture where Canadian and international fashion collections are shown to buyers, the press, and the general public. It is the largest fashion week held in Canada and the second largest fashion week in North America, after New York Fashion Week. The event is currently held within Toronto's exclusive luxury retail and brand neighbourhood, Yorkville, along Hazelton Avenue and Yorkville Avenue. Toronto Fashion Week draws considerable media attention, nationally and internationally. In",
+                "score": 18.43013,
+                "title_score": 0,
+                "psg_id": "16827764",
+                "topic": "fashion"
+            },
+            {
+                "title": "Copenhagen Fashion Week",
+                "text": "Week. Copenhagen Fashion Week Copenhagen Fashion Week is an international fashion event, held twice a year in Copenhagen. The first Copenhagen Fashion Week was held in 2006, the result of a merger of previous Danish clothing trade fairs, Dansk Modeuge and Dansk Herremodeuge, which date back to the 1950s. Copenhagen Fashion Week is owned by the Danish Fashion Institute. Today, the event takes place in February and August, and is the Nordic region's largest fashion event with more than 1,600 exhibitors and 2,800 branded collections in addition to 40-45 runway shows on the official show schedule. Copenhagen Fashion Week consists",
+                "score": 18.43013,
+                "title_score": 0,
+                "psg_id": "15649323",
+                "topic": "fashion"
+            },
+            {
+                "title": "New York Fashion Week",
+                "text": "2015. \" New York Fashion Week New York Fashion Week, held in February and September of each year, is a semi-annual series of events (generally lasting 7\u20139 days) when international fashion collections are shown to buyers, the press, and the general public. It is one of four major fashion weeks in the world, collectively known as the \"Big 4,\" along with those in Paris, London and Milan. The Council of Fashion Designers of America (CFDA) created the modern notion of a centralized \u201cNew York Fashion Week\u201d in 1993, although cities like London were already using their city\u2019s name in conjunction",
+                "score": 18.361593,
+                "title_score": 0,
+                "psg_id": "9898856",
+                "topic": "fashion"
+            },
+            {
+                "title": "New York Fashion Week",
+                "text": "New York Fashion Week New York Fashion Week, held in February and September of each year, is a semi-annual series of events (generally lasting 7\u20139 days) when international fashion collections are shown to buyers, the press, and the general public. It is one of four major fashion weeks in the world, collectively known as the \"Big 4,\" along with those in Paris, London and Milan. The Council of Fashion Designers of America (CFDA) created the modern notion of a centralized \u201cNew York Fashion Week\u201d in 1993, although cities like London were already using their city\u2019s name in conjunction with the",
+                "score": 18.361593,
+                "title_score": 0,
+                "psg_id": "9898842",
+                "topic": "fashion"
+            },
+            {
+                "title": "Copenhagen Fashion Week",
+                "text": "Copenhagen Fashion Week Copenhagen Fashion Week is an international fashion event, held twice a year in Copenhagen. The first Copenhagen Fashion Week was held in 2006, the result of a merger of previous Danish clothing trade fairs, Dansk Modeuge and Dansk Herremodeuge, which date back to the 1950s. Copenhagen Fashion Week is owned by the Danish Fashion Institute. Today, the event takes place in February and August, and is the Nordic region's largest fashion event with more than 1,600 exhibitors and 2,800 branded collections in addition to 40-45 runway shows on the official show schedule. Copenhagen Fashion Week consists of",
+                "score": 18.335445,
+                "title_score": 0,
+                "psg_id": "15649320",
+                "topic": "fashion"
+            },
+            {
+                "title": "Vancouver Fashion Week",
+                "text": "active member of the fashion industry and a major supporter of Vancouver Fashion Week during her life. Vancouver Kids Fashion Week (VKFW) was established in September 2016. The two-day event takes place during Vancouver Fashion Week. VKFW has partnered with BC Children\u2019s Hospital Foundation (BCCHF) donating a portion of ticket sales to the Foundation. Global Fashion Collective (GFC), an expansion of Vancouver Fashion Week, is a platform specialising in supporting creative designers by establishing their presence around the world. Launched in October 2017. Since 2018, Vancouver Fashion Week has been producing a digital magazine Micro Macro Magazine, a contemporary design",
+                "score": 18.093386,
+                "title_score": 0,
+                "psg_id": "17401950",
+                "topic": "fashion"
+            },
+            {
+                "title": "Christian Fashion Week",
+                "text": "Christian Fashion Week Christian Fashion Week (R) (USPTO Registration Numbers 4456872 & 4494390) is an annual fashion show that celebrates fashion from a Christian worldview. It is the first fashion week to claim faith as a basis. The organization and event was founded by entrepreneurs Jose Gomez, Mayra Gomez, Wil Lugo, and Tamy Lugo, all from Tampa, Florida. The first annual event, Christian Fashion Week 2013, was held on February 8, 2013, and featured 8 designers from around the US. The event attracted over 300 attendees and over 2,000 online viewers. The event attracted an international audience after a syndicated",
+                "score": 17.921589,
+                "title_score": 0,
+                "psg_id": "17947182",
+                "topic": "fashion"
+            },
+            {
+                "title": "Madrid Fashion Week",
+                "text": "have added some \u201csuper\u201d appeal to the MBFWM calendar. Some designers that showing their collections in Mercedes-Benz Fashion Week Madrid are: Davidelfin, Juan Duyos, Adolfo Dominguez, Andres Sarda, Aristocrazy, TCN, Juanjo Oliva... Madrid Fashion Week Mercedes-Benz Fashion Week Madrid, was known as \"Pasarela Cibeles\" until 2008 or Cibeles Madrid Fashion week up until 2012, is the principal platform to promote fashion in Spain. Based in Madrid and often takes place twice a year, in September 2008 held its edition No. 48. The No. 49 edition, which lasted two weeks, was held in February 2009. It is organized by IFEMA, the",
+                "score": 17.869713,
+                "title_score": 0,
+                "psg_id": "15068742",
+                "topic": "fashion"
+            },
+            {
+                "title": "PFDC Sunsilk Fashion Week",
+                "text": "PFDC Sunsilk Fashion Week PFDC Sunsilk Fashion Week is an annually fashion event held in Lahore and Karachi in Pakistan. The event is organised by the \"Pakistan Fashion Design Council\" (PFDC) along with the sponsor of Sunsilk. 1st PFDC Sunsilk Fashion Week was held on February 16\u201319, 2010 in Lahore. 3rd PFDC Sunsilk Fashion Week was held in 2011 in Lahore and Karachi. 5th PFDC Sunsilk Fashion Week was held in April 2012. The venue for the event was Expo Centre Lahore. The 9th PFDC Sunsilk Fashion Week was held in March 2017. This four-day event was held in Lahore",
+                "score": 17.835905,
+                "title_score": 0,
+                "psg_id": "17137843",
+                "topic": "fashion"
+            },
+            {
+                "title": "PFDC Sunsilk Fashion Week",
+                "text": "and showcased top Pakistani fashionn designers In addition to this, at least four new designers were also launched in collaboration with Bank Al Falah Rising Talent Segment.. PFDC Sunsilk Fashion Week 2013 PFDC Sunsilk Fashion Week PFDC Sunsilk Fashion Week is an annually fashion event held in Lahore and Karachi in Pakistan. The event is organised by the \"Pakistan Fashion Design Council\" (PFDC) along with the sponsor of Sunsilk. 1st PFDC Sunsilk Fashion Week was held on February 16\u201319, 2010 in Lahore. 3rd PFDC Sunsilk Fashion Week was held in 2011 in Lahore and Karachi. 5th PFDC Sunsilk Fashion Week",
+                "score": 17.83489,
+                "title_score": 0,
+                "psg_id": "17137844",
+                "topic": "fashion"
+            },
+            {
+                "title": "Boston Fashion Week",
+                "text": "and was becoming very repetitive. Boston Fashion Week began again in September 2007. The event returned more powerful and with more attention of the media. It includes fashion shows and networking events. The week also contributes to a sense of civic pride about what the region has to offer and how it continues to evolve. In the year of 2013 the Boston Fashion Week was held between September 27 and October 25 and it was specially dedicated to Alfred Fiandaca, who was a leading Bostonian fashion designer. Jay Calderin is the founder of the Boston Fashion Week as well as",
+                "score": 17.743492,
+                "title_score": 0,
+                "psg_id": "17559706",
+                "topic": "fashion"
+            },
+            {
+                "title": "Alberta Fashion Week",
+                "text": "take place May 16\u201321, 2011. Alberta Fashion Week Alberta Fashion Week is a fashion event in Calgary, Alberta, Canada. It was started in February, 2009 by David R. Politi in Calgary, Alberta. It is a bi-yearly Fashion Week featuring local and national, Canadian designers. Its first shows were held between October 4\u201310, 2009, at the Banke of Nova Scotia, on Stephen Avenue in Calgary. Most of the designers involved were women, showing a mix of ready-to-wear and haute couture. To stay competitive with other non-fashion events, and encouraging for young fashion enthusiasts, tickets prices were kept low \u2013 under $22",
+                "score": 17.735865,
+                "title_score": 0,
+                "psg_id": "14064402",
+                "topic": "fashion"
+            },
+            {
+                "title": "Alberta Fashion Week",
+                "text": "Alberta Fashion Week Alberta Fashion Week is a fashion event in Calgary, Alberta, Canada. It was started in February, 2009 by David R. Politi in Calgary, Alberta. It is a bi-yearly Fashion Week featuring local and national, Canadian designers. Its first shows were held between October 4\u201310, 2009, at the Banke of Nova Scotia, on Stephen Avenue in Calgary. Most of the designers involved were women, showing a mix of ready-to-wear and haute couture. To stay competitive with other non-fashion events, and encouraging for young fashion enthusiasts, tickets prices were kept low \u2013 under $22 for standing-room. The next shows",
+                "score": 17.735865,
+                "title_score": 0,
+                "psg_id": "14064401",
+                "topic": "fashion"
+            },
+            {
+                "title": "London Fashion Week",
+                "text": "London Fashion Week London Fashion Week (LFW) is a clothing trade show that takes place in London twice a year, in February and September. Showcasing over 250 designers to a global audience of influential media and retailers, it is one of the \"Big Four\" fashion weeks, along with the New York, Milan and Paris. Organised by the British Fashion Council (BFC) for the London Development Agency with help from the Department for Business, Innovation and Skills, London Fashion Week first took place in October 1983. It currently ranks alongside New York, Paris and Milan as one of the 'Big Four'",
+                "score": 17.661243,
+                "title_score": 0,
+                "psg_id": "6667168",
+                "topic": "fashion"
+            },
+            {
+                "title": "London Fashion Week",
+                "text": "front row at catwalk shows by London Fashion Week designers, get a head start on the key trends of the coming season and listen to talks by industry experts. London Fashion Week London Fashion Week (LFW) is a clothing trade show that takes place in London twice a year, in February and September. Showcasing over 250 designers to a global audience of influential media and retailers, it is one of the \"Big Four\" fashion weeks, along with the New York, Milan and Paris. Organised by the British Fashion Council (BFC) for the London Development Agency with help from the Department",
+                "score": 17.6549,
+                "title_score": 0,
+                "psg_id": "6667172",
+                "topic": "fashion"
+            }
+        ],
+        "negative_ctxs": [],
+        "hard_negative_ctxs": [
+            {
+                "title": "Fashion week",
+                "text": "Shanghai, New Delhi, Copenhagen, Sibiu, Jakarta, and Tokyo host important fashion weeks. The concept of fashion week () began in Paris, when marketers would hire women to wear couture items in public places, from racetracks to salons. These parades (parade is \"d\u00e9fil\u00e9 in French) gradually began to become social events of their own. (Indeed, in French, runways shows are still called \"d\u00e9fil\u00e9s de mode\" -- literally \"fashion parades\" -- today.) The first Paris fashion week began in 1973. In 1903, a New York City shop called Ehrich Brothers put on what is thought to have been the country\u2019s first fashion",
+                "score": 19.066513,
+                "title_score": 0,
+                "psg_id": "3585755",
+                "topic": "fashion"
+            },
+            {
+                "title": "New York Fashion Week",
+                "text": "from calendar founder Ruth Finley. Another calendar is kept by Fashion Week Online. The economic impact of New York Fashion Week is estimated at $887 million. The first New York Fashion Week was created in 1943 by Eleanor Lambert, press director of the American fashion industry\u2019s first promotional organization, the New York Dress Institute. The event, the world's first organized fashion week, was called \"Press Week\", and was created to attract attention away from French fashion during World War II, when fashion industry insiders were unable to travel to Paris to see French fashion shows. It was also meant to",
+                "score": 18.831005,
+                "title_score": 0,
+                "psg_id": "9898844",
+                "topic": "fashion"
+            },
+            {
+                "title": "Hayati Fashion Week",
+                "text": "Hayati Fashion Week Hayati Fashion Week (HFW) is an annual series of events when modest fashion collections from Nigeria and other African countries are shown to the press and general public. HFW was founded by Fatima Togbe in 2017. The inaugural event took place in 2017 and was sponsored by the Medicaid Cancer Foundation (MCF). Other sponsors include Dunes Center, Pandora, Nestle brand Maggi, Vlisco and Arith & Paul. Hayati Fashion Week was created as a response to the lack of representation of modest fashion on major Nigerian fashion platforms. It has provided designers, models, artists and other businesses who",
+                "score": 18.781048,
+                "title_score": 0,
+                "psg_id": "20547825",
+                "topic": "fashion"
+            },
+            {
+                "title": "Miami Fashion Week",
+                "text": "Miami Fashion Week Miami Fashion Week is an annual fashion week held in Miami, Florida, United States. Miami Fashion Week, not to be confused with the Mercedes-Benz Fashion Week Miami, takes place every year during the spring and is held in the Wynwood Arts District. Miami Fashion Week was started in 1998 and is the world's largest fashion week for Latin American and the Caribbean fashion designers. The influence of Miami Fashion Week reaches beyond the expected swimwear. As the longest running fashion week in the region, Miami Fashion Week turns out a staggering number of designs in the evening",
+                "score": 18.775734,
+                "title_score": 0,
+                "psg_id": "12195714",
+                "topic": "fashion"
+            },
+            {
+                "title": "Budapest Fashion Week",
+                "text": "published a review of the Budapest Fashion Week 2018. The article \u201cBudapest Central European Fashion Week SS19\u201d written by Alberto Calabrese claims that the fashion show lacked organization and direction. Budapest Fashion Week became one of the first fashion weeks to fully embrace digital media when it offered all designers who were showing their collections on the catwalk the opportunity to broadcast their shows live on the internet by UStream. The video stream can be seen on Budapest Fashion Week's website and on UStream channels. The full live stream is no longer available on UStream but short clips can be",
+                "score": 18.725183,
+                "title_score": 0,
+                "psg_id": "18075452",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion Week Cleveland",
+                "text": "in past events. Fashion Week Cleveland Fashion Week Cleveland is an annual fashion industry event held in Cleveland, Ohio which began in 2002. It is one of fourteen internationally recognized fashion week events in North America. Fashion Week Cleveland is held during the first week of May. The event is the third-largest fashion show of its kind in the United States behind only New York Fashion Week and Los Angeles Fashion Week. As such, this event is recognized as the showcase for emerging American fashion designers. Designers such as MoMo Falana (designer for Sex and the City) and Wendy Pepper",
+                "score": 18.612724,
+                "title_score": 0,
+                "psg_id": "11124570",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion Week Cleveland",
+                "text": "Fashion Week Cleveland Fashion Week Cleveland is an annual fashion industry event held in Cleveland, Ohio which began in 2002. It is one of fourteen internationally recognized fashion week events in North America. Fashion Week Cleveland is held during the first week of May. The event is the third-largest fashion show of its kind in the United States behind only New York Fashion Week and Los Angeles Fashion Week. As such, this event is recognized as the showcase for emerging American fashion designers. Designers such as MoMo Falana (designer for Sex and the City) and Wendy Pepper have been featured",
+                "score": 18.610254,
+                "title_score": 0,
+                "psg_id": "11124569",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion week",
+                "text": "and accompanied with a narrative commentary. The shows were hugely popular, enticing crowds in their thousands \u2013 crowds so large, that stores in New York in the fifties had to obtain a license to have live models. In 1943, the first-ever \"fashion week,\" New York Fashion Week, was held, with one main purpose: to give fashion buyers alternatives to French fashion during World War II, when workers in the fashion industry were unable to travel to Paris. Until 1994, shows were held in different locations, such as hotels, or lofts. From 1994 to 2009, the event was held in a",
+                "score": 18.58264,
+                "title_score": 0,
+                "psg_id": "3585757",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion week",
+                "text": "of Paris. Many designers also put on presentations as opposed to traditional shows during Resort and Pre-Fall either to cut down costs or because they feel the clothes can be better understood in this medium. Some fashion weeks can be genre-specific, such as Miami Fashion Week (swimwear), Rio Summer (swimwear), the haute couture shows in Paris (one-of-a-kind designer originals), Indonesia Islamic Fashion Week (Moslem Fashion), Festive Wear at Bangalore Fashion Week and Bridal Fashion Week, while Portland (Oregon, USA) Fashion Week shows some eco-friendly designers. Bread and Butter Berlin hosts the leading fashion show for everyday fashion. Fashion week happens",
+                "score": 18.571543,
+                "title_score": 0,
+                "psg_id": "3585761",
+                "topic": "fashion"
+            },
+            {
+                "title": "Nepal Fashion Week",
+                "text": "fashion week lasts for 4 days with all the glitz and glamor on the catwalk. Nepal Fashion Week Nepal Fashion Week (also known as The Himalayan Times TGIF Nepal Fashion Week) is an event organized and promoted by IEC College of Art and Fashion and sponsored by the McDowell\u2019s Signature, Emirates and Himalayan Times. From 2009 onwards the fashion week has been held annually in the capital city of Kathmandu. TGIF Nepal Fashion Week 2011 had 34 designers showcasing their collections on the catwalk. TGIF Fashion Week is a fashion show event organizer company in Nepal. Celebrities and fashion models",
+                "score": 18.536364,
+                "title_score": 0,
+                "psg_id": "16162617",
+                "topic": "fashion"
+            },
+            {
+                "title": "Bangalore Fashion Week",
+                "text": "Bangalore Fashion Week Bangalore Fashion Week (BFW) is a bi-annual fashion event held in Bangalore, India. Established in 2009, The name Bangalore Fashion Week follows the international practice of christening the fashion week event after the name of the city in which it is being held. The participation to Bangalore Fashion Week is \u2018by invitation only\u2019 and each participating designer has to undergo a stringent jury which selects the designer on the basis of the ingenuity of his design. The Indian fashion scene is divided into 3 sectors - North, Central and South. India Fashion Week & India Runway Week",
+                "score": 18.529566,
+                "title_score": 0,
+                "psg_id": "15761544",
+                "topic": "fashion"
+            },
+            {
+                "title": "Bangalore Fashion Week",
+                "text": "for emerging designers occurs in Delhi, North India, and the Lakme Fashion Week in Mumbai serves the Central sector Bangalore Fashion Week covers the south. 3. The Nation Newspaper Bangalore Fashion Week Bangalore Fashion Week (BFW) is a bi-annual fashion event held in Bangalore, India. Established in 2009, The name Bangalore Fashion Week follows the international practice of christening the fashion week event after the name of the city in which it is being held. The participation to Bangalore Fashion Week is \u2018by invitation only\u2019 and each participating designer has to undergo a stringent jury which selects the designer on",
+                "score": 18.50326,
+                "title_score": 0,
+                "psg_id": "15761545",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion week",
+                "text": "fashion\" retailers, who copy designs from the runway and bring them to retail faster than traditional design houses. In spite of the call to rethink the runways, so far the French Federation of Fashion (F\u00e9d\u00e9ration fran\u00e7aise de la couture) has opposed the change. Fashion week A fashion week is a fashion industry event, lasting approximately one week, wherein fashion designers, brands or \"houses\" display their latest collections in runway fashion shows to buyers and the media. These events influence trends for the current and upcoming seasons. The most prominent fashion weeks are held in the fashion capitals of the world,",
+                "score": 18.503113,
+                "title_score": 0,
+                "psg_id": "3585764",
+                "topic": "fashion"
+            },
+            {
+                "title": "Lahore Fashion Week",
+                "text": "Lahore Fashion Week Lahore Fashion Week is the second largest fashion week event in Pakistan (after the Karachi Fashion Week) which is held annually in the city of Lahore, also regarded as Pakistan's cultural and fashion capital. Famous Pakistani fashion designer Mehmood Bhatti has praised the fashion week and called it an answer to the \"futile efforts of extremists to enforce fear.\" \u2018Pantene Bridal couture Week Style 360 day 1 was held at Pearl Continental hotel Lahore on 15 October, In Style 360 Bridal couture Week day One Total of 13 Fashion Designers and 33 models participated in the fashion",
+                "score": 18.501169,
+                "title_score": 0,
+                "psg_id": "15468631",
+                "topic": "fashion"
+            },
+            {
+                "title": "Lahore Fashion Week",
+                "text": "show. Bridal couture Week 360 2011 was sponsored by Pantene one of the leading Shampoo company in Pakistan and organized by Style 360 Pakistan\u2019s only Fashion Channel. Apart from the traditional fashion show, Bridal couture Week day 1 included a dance performance by Fia which was much appreciated by everyone. Lahore Fashion Week Lahore Fashion Week is the second largest fashion week event in Pakistan (after the Karachi Fashion Week) which is held annually in the city of Lahore, also regarded as Pakistan's cultural and fashion capital. Famous Pakistani fashion designer Mehmood Bhatti has praised the fashion week and called",
+                "score": 18.497425,
+                "title_score": 0,
+                "psg_id": "15468632",
+                "topic": "fashion"
+            },
+            {
+                "title": "Karachi Fashion Week",
+                "text": "and aesthetic consultant of KFW and will continue to set the mood and raise the bar for the fashion brands showcasing at both Karachi Fashion Week and later at Islamabad Fashion Week. Karachi Fashion Week Karachi Fashion Week is a fashion week held in Karachi, Pakistan. It is the country's largest fashion display event. It has been hosted annually and coincide with the international and local spring and summer peak buying season. The fourth edition of Karachi Fashion Week was held on January 27\u201329, 2013. It's a 'By Invitation' fashion trade event. Apart from establishment fashion designers and retail brands,",
+                "score": 18.452618,
+                "title_score": 0,
+                "psg_id": "15468622",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion week",
+                "text": "Fashion week A fashion week is a fashion industry event, lasting approximately one week, wherein fashion designers, brands or \"houses\" display their latest collections in runway fashion shows to buyers and the media. These events influence trends for the current and upcoming seasons. The most prominent fashion weeks are held in the fashion capitals of the world, with the \"Big Four\" receiving the majority of press coverage being New York, London, Milan, and Paris. While the fashion scene turns more multipolar in the 21st century, other centers like Mumbai, Beirut, Berlin, Dubai, Los Angeles, Madrid, Monaco, Rome, S\u00e3o Paulo, Taipei,",
+                "score": 18.447634,
+                "title_score": 0,
+                "psg_id": "3585754",
+                "topic": "fashion"
+            },
+            {
+                "title": "Nepal Fashion Week",
+                "text": "Nepal Fashion Week Nepal Fashion Week (also known as The Himalayan Times TGIF Nepal Fashion Week) is an event organized and promoted by IEC College of Art and Fashion and sponsored by the McDowell\u2019s Signature, Emirates and Himalayan Times. From 2009 onwards the fashion week has been held annually in the capital city of Kathmandu. TGIF Nepal Fashion Week 2011 had 34 designers showcasing their collections on the catwalk. TGIF Fashion Week is a fashion show event organizer company in Nepal. Celebrities and fashion models from around the world come to model for the designers to promote their designs. The",
+                "score": 18.420424,
+                "title_score": 0,
+                "psg_id": "16162616",
+                "topic": "fashion"
+            },
+            {
+                "title": "Budapest Fashion Week",
+                "text": "Budapest Fashion Week Budapest Fashion Week is a fashion week trade show held annually in April and October in Budapest, Hungary, usually after the five major fashion weeks. It is still aspiring to the level of big five fashion weeks (New York City, London, Paris, Milan and Berlin). Based on the concept of the international fashion week series, TONI&GUY Fashion Week Budapest is an event, where the leading Hungarian fashion designers and international designers gain platform to introduce their seasonal collections twice a year for the Hungarian and international fashion industry and the public as well. The event is usually",
+                "score": 18.413359,
+                "title_score": 0,
+                "psg_id": "18075446",
+                "topic": "fashion"
+            },
+            {
+                "title": "Berlin Fashion Week",
+                "text": "Berlin Fashion Week Berlin Fashion Week (\"Berliner Modewoche\") is a fashion week held twice annually (in January and July) in Berlin, Germany. Since its establishment in July 2007 it has gained great international attention for its many creative young designers who are flourishing in the fashion capital of Berlin. Since July 2011, the event has taken place part in front of the Brandenburg Gate. Mercedes-Benz is the main sponsor of the fashion week. The last Berlin Fashion Week took place between , the next is scheduled for . Since the Spring/Summer 2012 season, \"Mercedes-Benz Fashion Week\" features young international talents",
+                "score": 18.363045,
+                "title_score": 0,
+                "psg_id": "16075330",
+                "topic": "fashion"
+            },
+            {
+                "title": "Junior's Fashion Week",
+                "text": "Children's Place, Biba, Manyavar, Airtel, Max Fashions have showcased at Junior's Fashion Week. Armani, Fashion Week, London Fashion Week, List of fashion events, Runway (fashion) __NOEDITSECTION__ Junior's Fashion Week Juniors Fashion Week (JFW) is a bi-annual runway showcase being conducted in Mumbai, Kolkata, Chennai and NCR, Bangalore, Chandigarh, Pune India. JFW educate the children about the latest fashion trends. JFW also showcases various National and International Brands on the runway and display brand windows to the public audience. Junior's Fashion Week does not conduct audition, because it believes that every child must have the knowledge about the right fashion and",
+                "score": 18.338957,
+                "title_score": 0,
+                "psg_id": "19726614",
+                "topic": "fashion"
+            },
+            {
+                "title": "Feeric Fashion Week",
+                "text": "Feeric Fashion Week Feeric Fashion Week has since 2008 developed itself in an international fashion hub for designers coming from more than 20 countries and 4 continents. It is based in the city of Sibiu, Transylvania, Romania, and it is covered by fashion press like \"Vogue Italy\", \"Sch\u00f6n Magazine\" and \"Euronews\". \"Vogue Italy\" described it as the most important fashion event of Romania. Vogue Italy also says about the creativity of transforming the most random places in catwalk-ready settings. Sch\u00f6n Magazine is calling Feeric Fashion Week as the greatest fashion week in Eastern Europe. The president of \"Feeric Fashion Week\"",
+                "score": 18.335445,
+                "title_score": 0,
+                "psg_id": "19969164",
+                "topic": "fashion"
+            },
+            {
+                "title": "Paris Fashion Week",
+                "text": "the Carrousel du Louvre and the Grand Palais. Paris Fashion Week is part of the global \"Big 4\" fashion weeks, the others being London Fashion Week, Milan Fashion Week and New York Fashion Week. The schedule begins with New York, followed by London, and then Milan and ends in Paris. Although the first fashion week was held in New York, the event itself derives from \"salon shows\" (\"d\u00e9fil\u00e9s de mode\" in French, literally \"fashion parades\") in Paris couture salons. A fashion week consists of a week of organized events of multiple designer\u2019s collections. Before this organized event was recognized in",
+                "score": 18.334501,
+                "title_score": 0,
+                "psg_id": "10070211",
+                "topic": "fashion"
+            },
+            {
+                "title": "Australian Fashion Week",
+                "text": "Collections of Australia\u2019s leading designer brands. The festival is held at the Brisbane Town Hall and throughout the city in August. Australian Fashion Week Mercedes-Benz Fashion Week Australia is an annual fashion industry event, currently sponsored by Mercedes-Benz and showcasing the latest seasonal collections from Australian and Asia Pacific Designers. Australian Fashion Week is an industry fashion week intended for retail buyers to buy forthcoming spring/summer collections directly from designers and manufacturers, as opposed to a consumer fashion week, which showcases clothes currently available instore and is targeted to fashion consumers. As of 2013 it is held at Carriageworks in",
+                "score": 18.309786,
+                "title_score": 0,
+                "psg_id": "8939159",
+                "topic": "fashion"
+            },
+            {
+                "title": "Mysore Fashion Week",
+                "text": "as a showstopper for designer Jayanthi Ballal at the 2016 Mysore Fashion Week. Over 100 aspiring models from India and all around the world were present at The Ritz-Carlton in Bangalore hoping to make the cut and walk the ramp at the fashion week. The jury comprised Mysore Fashion Week founder Jayanthi Ballal, Noyonita Lodh Miss Universe Top 15 \u20132014, celebrity photographer Waseem Khan and fashion director Ovez Bakshi. Mysore Fashion Week Mysore Fashion week (MFW) is a cultural event held every year in Mysore. The Audition for Models is held one month prior to the Fashion Week. The designers",
+                "score": 18.295387,
+                "title_score": 0,
+                "psg_id": "20310327",
+                "topic": "fashion"
+            },
+            {
+                "title": "Budapest Fashion Week",
+                "text": "found on YouTube. The general sponsor of the event is TONI&GUY global hairdressing and training business company, and further major sponsors are Mercedes-Benz, Samsung, MAC Cosmetics, Sony, and UPC among others. Budapest Fashion Week Budapest Fashion Week is a fashion week trade show held annually in April and October in Budapest, Hungary, usually after the five major fashion weeks. It is still aspiring to the level of big five fashion weeks (New York City, London, Paris, Milan and Berlin). Based on the concept of the international fashion week series, TONI&GUY Fashion Week Budapest is an event, where the leading Hungarian",
+                "score": 18.288322,
+                "title_score": 0,
+                "psg_id": "18075453",
+                "topic": "fashion"
+            },
+            {
+                "title": "Indore Fashion Week",
+                "text": "number of local designers and models made it an issue of criticism among local fashion fraternity of Indore. The large participation of international fashion designers, film actors and models from Delhi, Mumbai and Kolkata disappointed local models and designers though the fashion week was concluded with a thumbs up from audience and media. Indore Fashion Week Indore Fashion Week (IFW) or Blenders Pride Indore Fashion Week (BPIFW) is an annual fashion event that takes place in Indore. It is considered a premier fashion event in central India. It is run by \"Storm Fashion Company\" (SFC) and the title sponsor is",
+                "score": 18.279881,
+                "title_score": 0,
+                "psg_id": "17159345",
+                "topic": "fashion"
+            },
+            {
+                "title": "Mysore Fashion Week",
+                "text": "Mysore Fashion Week Mysore Fashion week (MFW) is a cultural event held every year in Mysore. The Audition for Models is held one month prior to the Fashion Week. The designers are selected based on their creativity and brand collections. MFW is a platform for new designers and Models to express their talents to the World. After organizing 75 fashion shows, Jayanthi Ballal decided to start Mysore Fashion Week in 2014 on the lines of Lakme Fashion Week, because she felt people of Mysore were deprived of experiencing the latest in clothing and trends. The second season of Mysore Fashion",
+                "score": 18.262142,
+                "title_score": 0,
+                "psg_id": "20310325",
+                "topic": "fashion"
+            },
+            {
+                "title": "Oxford Fashion Week",
+                "text": "first discovered at Oxford Fashion Week have since gone on to have successful modelling careers. Oxford Fashion Week Oxford Fashion Week is an annual independent fashion showcase in Oxford, England. It was founded in 2009 by Oxford University graduates Carl Anglim and Victoria Watson. The event is currently organised by Carl Anglim and Tiff Saunders. Carl works as the director and Tiff works as assistant director. Oxford Fashion Week has showcased the talent of designers such as Alexander McQueen, Matthew Williamson and Valentin Yudashkin. Oxford Fashion Week was established in 2009. The event is now an annual fashion feature and",
+                "score": 18.262142,
+                "title_score": 0,
+                "psg_id": "16515636",
+                "topic": "fashion"
+            },
+            {
+                "title": "Karachi Fashion Week",
+                "text": "Karachi Fashion Week Karachi Fashion Week is a fashion week held in Karachi, Pakistan. It is the country's largest fashion display event. It has been hosted annually and coincide with the international and local spring and summer peak buying season. The fourth edition of Karachi Fashion Week was held on January 27\u201329, 2013. It's a 'By Invitation' fashion trade event. Apart from establishment fashion designers and retail brands, Karachi Fashion Week 2013 has a large focus on emerging talent, providing them with the opportunity to showcase their collection on a professional runway, thus the physical and creative platform to truly",
+                "score": 18.257172,
+                "title_score": 0,
+                "psg_id": "15468620",
+                "topic": "fashion"
+            },
+            {
+                "title": "Australian Fashion Week",
+                "text": "Australian Fashion Week Mercedes-Benz Fashion Week Australia is an annual fashion industry event, currently sponsored by Mercedes-Benz and showcasing the latest seasonal collections from Australian and Asia Pacific Designers. Australian Fashion Week is an industry fashion week intended for retail buyers to buy forthcoming spring/summer collections directly from designers and manufacturers, as opposed to a consumer fashion week, which showcases clothes currently available instore and is targeted to fashion consumers. As of 2013 it is held at Carriageworks in Redfern, Sydney, in April of each year. Previously it had been held in April/May at the International Passenger Terminal at Sydney's",
+                "score": 18.255442,
+                "title_score": 0,
+                "psg_id": "8939147",
+                "topic": "fashion"
+            },
+            {
+                "title": "Pittsburgh Fashion Week",
+                "text": "Fashion Week had a theme of \"ecologically friendly fashion.\" One event focused exclusively on men's fashion. Local celebrities modeled some fashion. Organizers plan on producing a fourth event in 2013. Pittsburgh Fashion Week Pittsburgh Fashion Week is an annual fashion week held in Pittsburgh, Pennsylvania. Pittsburgh model Miyoshi Anderson, created the event to help highlight the fashion industry in Pittsburgh, which had been struggling with the closure of several major department stores. The first Pittsburgh Fashion Week was held in 2010, with events held in Heinz History Center and the Omni William Penn Hotel. The inaugural class of the Pittsburgh",
+                "score": 18.224638,
+                "title_score": 0,
+                "psg_id": "17074946",
+                "topic": "fashion"
+            },
+            {
+                "title": "Indore Fashion Week",
+                "text": "Indore Fashion Week Indore Fashion Week (IFW) or Blenders Pride Indore Fashion Week (BPIFW) is an annual fashion event that takes place in Indore. It is considered a premier fashion event in central India. It is run by \"Storm Fashion Company\" (SFC) and the title sponsor is Blenders Pride. Organised by Storm Fashion Company, Pernod Ricard India and Hotel Sayaji, the first Blenders Pride Indore Fashion Week saw participation from both established and emerging designers from across the country, including biggies like Jattinn Kochhar and Rocky S. Fifty models, including the show\u2019s brand ambassadors Shawar Ali and Miss Asia Pacific",
+                "score": 18.224401,
+                "title_score": 0,
+                "psg_id": "17159341",
+                "topic": "fashion"
+            },
+            {
+                "title": "Fashion week",
+                "text": "tent at Bryant Park, behind the New York Public Library. Lincoln Center was the Fashion Week venue from 2010 to 2015, after which it moved to Clarkson Square, an events venue in SoHo. Although there are many notable fashion weeks around the world, only four are known as the \"Big Four\": Paris, Milan, London and New York. Paris began holding couture shows in 1945, Milan Fashion Week was founded by the Italian Chamber of Commerce in 1958, Paris Fashion Week was further organized in 1973 under the French Fashion Federation, and London Fashion Week was founded by the British Fashion",
+                "score": 18.212553,
+                "title_score": 0,
+                "psg_id": "3585758",
+                "topic": "fashion"
+            },
+            {
+                "title": "Berlin Fashion Week",
+                "text": "like \"Eveline Hall\". The famed female model Toni Garrn is part of every show. Berlin Fashion Week Berlin Fashion Week (\"Berliner Modewoche\") is a fashion week held twice annually (in January and July) in Berlin, Germany. Since its establishment in July 2007 it has gained great international attention for its many creative young designers who are flourishing in the fashion capital of Berlin. Since July 2011, the event has taken place part in front of the Brandenburg Gate. Mercedes-Benz is the main sponsor of the fashion week. The last Berlin Fashion Week took place between , the next is scheduled",
+                "score": 18.211109,
+                "title_score": 0,
+                "psg_id": "16075333",
+                "topic": "fashion"
+            },
+            {
+                "title": "Feeric Fashion Week",
+                "text": "Milano Feeric Fashion Week Feeric Fashion Week has since 2008 developed itself in an international fashion hub for designers coming from more than 20 countries and 4 continents. It is based in the city of Sibiu, Transylvania, Romania, and it is covered by fashion press like \"Vogue Italy\", \"Sch\u00f6n Magazine\" and \"Euronews\". \"Vogue Italy\" described it as the most important fashion event of Romania. Vogue Italy also says about the creativity of transforming the most random places in catwalk-ready settings. Sch\u00f6n Magazine is calling Feeric Fashion Week as the greatest fashion week in Eastern Europe. The president of \"Feeric Fashion",
+                "score": 18.201967,
+                "title_score": 0,
+                "psg_id": "19969171",
+                "topic": "fashion"
+            },
+            {
+                "title": "Men's Fashion Week",
+                "text": "both Vancouver and Toronto hold a Men's Fashion Week - respectively. Among other cities, New York has supported the developments in the menswear segment, but has yet to announce a Fashion Week dedicated entirely to menswear fashion designers. Paris promotes its men's runway shows as a part of its regular Fashion Week schedule. In 2012, 2013, 2014, and 2015, Men's Fashion Week presented shows in Puerto Rico produced by World Events LLC. Men's Fashion Week Men's Fashion Week is an event usually held twice a year in major cities around the globe, typically in January (Autumn/Winter) and June (Spring/Summer). The",
+                "score": 18.194286,
+                "title_score": 0,
+                "psg_id": "16467835",
+                "topic": "fashion"
+            },
+            {
+                "title": "Oxford Fashion Week",
+                "text": "Oxford Fashion Week Oxford Fashion Week is an annual independent fashion showcase in Oxford, England. It was founded in 2009 by Oxford University graduates Carl Anglim and Victoria Watson. The event is currently organised by Carl Anglim and Tiff Saunders. Carl works as the director and Tiff works as assistant director. Oxford Fashion Week has showcased the talent of designers such as Alexander McQueen, Matthew Williamson and Valentin Yudashkin. Oxford Fashion Week was established in 2009. The event is now an annual fashion feature and takes place primarily over the course of one week in the year, with satellite events",
+                "score": 18.176115,
+                "title_score": 0,
+                "psg_id": "16515633",
+                "topic": "fashion"
+            },
+            {
+                "title": "Australian Fashion Week",
+                "text": "months after Australian Fashion Week. It is still hosted by IMG and Mercedes-Benz fashion week, connecting it with the same designers and production style. Many of the shows put on are reviews of fashion week. As retailers struggled with declining sales, MBFF was pitched as an event to show consumers how to wear the clothes currently on the retail racks. IMG fashion hosts the whole event. IMG also has control over the whole Australian Fashion Week and festival. Although Mercedes-Benz Fashion Festival Sydney is primarily based during Australian Fashion week, they also support and put together runway shows throughout the",
+                "score": 18.144838,
+                "title_score": 0,
+                "psg_id": "8939157",
+                "topic": "fashion"
+            },
+            {
+                "title": "Dubai Fashion Week",
+                "text": "Dubai Fashion Week Dubai Fashion Week (DFW) is a fashion week which was held in Dubai, United Arab Emirates. It was launched in 2005 and has presented its last runway on the 24 October 2011. It is owned and organised by a private company; Capital Marketing FZ LLC, an event management company. It was co-founded by Marc Robinson, a well-known international fashion show producer. The event witnessed the launch of some brands: The first Indian designer to open Dubai Fashion Week was Wendell Rodricks. Some models have debuted their career in Dubai Fashion Week including: The models who ramped on",
+                "score": 18.117273,
+                "title_score": 0,
+                "psg_id": "14983078",
+                "topic": "fashion"
+            },
+            {
+                "title": "New York Fashion Week",
+                "text": "words \u201cfashion week\u201d in the 1980s. NYFW is based on a much older series of events called \u201cPress Week,\u201d founded in 1943. It has consisted of numerous branded events, such as Olympus Fashion Week New York and MADE Fashion Week, and many independent fashion productions around town. Producers of New York Fashion Week include IMG, The SOCIETY Fashion Week, FTL Moda in conjunction with Fashion Week Online, Style 360, Art Hearts Fashion, Style Fashion Week, and ASC Fashion week among others. A centralized calendar of citywide events (including those affiliated with WME/IMG) is kept by the CFDA, and was acquired",
+                "score": 18.095446,
+                "title_score": 0,
+                "psg_id": "9898843",
+                "topic": "fashion"
+            },
+            {
+                "title": "Vancouver Fashion Week",
+                "text": "and culture platform. Vancouver Fashion Week Vancouver Fashion Week (VFW) is a fashion week in Vancouver, British Columbia, Canada that is currently run by Jamal Abdourahman. The event is seven days long each season and held twice a year. Vancouver Fashion Week was established in 2001. Since 2014, the Nancy Mak Award has been presented at Vancouver Fashion Week, a scholarship recognising up-and-coming British Columbia based designers that have a \"strong creative vision\", a solid business plan, and a desire to expand either their design knowledge or brand\u2019s reach. Awarded once a year, the scholarship is named in honour of",
+                "score": 18.084595,
+                "title_score": 0,
+                "psg_id": "17401951",
+                "topic": "fashion"
+            },
+            {
+                "title": "Vancouver Fashion Week",
+                "text": "Vancouver Fashion Week Vancouver Fashion Week (VFW) is a fashion week in Vancouver, British Columbia, Canada that is currently run by Jamal Abdourahman. The event is seven days long each season and held twice a year. Vancouver Fashion Week was established in 2001. Since 2014, the Nancy Mak Award has been presented at Vancouver Fashion Week, a scholarship recognising up-and-coming British Columbia based designers that have a \"strong creative vision\", a solid business plan, and a desire to expand either their design knowledge or brand\u2019s reach. Awarded once a year, the scholarship is named in honour of Nancy Mak, an",
+                "score": 18.084595,
+                "title_score": 0,
+                "psg_id": "17401949",
+                "topic": "fashion"
+            },
+            {
+                "title": "Philippine Fashion Week",
+                "text": "Philippine Fashion Week Philippine Fashion Week, (PhFW) is a bi-annual fashion week event held in Manila, Philippines. Dates are determined during the month of May, to showcase Holiday collections (instead of the autumn-winter which does not apply in the country) and again, during the month of October, to showcase Spring and Summer collections. It is the longest running fashion event in the country, and the largest fashion event held in Manila known as the \"Olympics\" of Fashion. The Philippine Fashion Week was founded by Joey A. Espino Jr and Audie Espino in 1997. They continue to lead the project as",
+                "score": 18.079784,
+                "title_score": 0,
+                "psg_id": "17378884",
+                "topic": "fashion"
+            },
+            {
+                "title": "Lagos Fashion Week",
+                "text": "Lagos Fashion Week Lagos Fashion Week (LFWNG) is an annual multi-day fashion event founded in 2011 by Omoyemi Akerele. Lagos Fashion Week is a fashion platform that drives the Nigerian and ultimately, the African fashion industry; by bringing together buyers, consumers and the media to view the current collections of designers in the fashion capital of Lagos, Nigeria. As a leading fashion event on the African fashion calendar, LFWNG leads the way with initiatives that supports, strengthens and develops the fashion industry. Beyond the runway, the annual event provides a physical platform that\u2019s gradually repositioning fashion as a useful tool",
+                "score": 18.07295,
+                "title_score": 0,
+                "psg_id": "18284647",
+                "topic": "fashion"
+            },
+            {
+                "title": "Lagos Fashion Week",
+                "text": "Lagos Fashion Week Lagos Fashion Week (LFWNG) is an annual multi-day fashion event founded in 2011 by Omoyemi Akerele. Lagos Fashion Week is a fashion platform that drives the Nigerian and ultimately, the African fashion industry; by bringing together buyers, consumers and the media to view the current collections of designers in the fashion capital of Lagos, Nigeria. As a leading fashion event on the African fashion calendar, LFWNG leads the way with initiatives that supports, strengthens and develops the fashion industry. Beyond the runway, the annual event provides a physical platform that\u2019s gradually repositioning fashion as a useful tool",
+                "score": 18.07295,
+                "title_score": 0,
+                "psg_id": "18284644",
+                "topic": "fashion"
+            },
+            {
+                "title": "Boston Fashion Week",
+                "text": "Boston Fashion Week Boston Fashion Week is a week-long luxury clothing event that takes place annually in Boston, United States. Fashion Week allows for international and local designers to showcase their creations to the general public, buyers, celebrities, and fashion experts. The event was established in the city by Jay Calderin in 1995. It faced a few setbacks in the early years, but is now increasing its popularity and importance, as Boston becomes a more fashion forward city. Accessibility and diversity in programming allow the public to engage the week on many levels; experiencing a show, taking in an exhibit,",
+                "score": 18.004944,
+                "title_score": 0,
+                "psg_id": "17559704",
+                "topic": "fashion"
+            },
+            {
+                "title": "Men's Fashion Week",
+                "text": "Men's Fashion Week Men's Fashion Week is an event usually held twice a year in major cities around the globe, typically in January (Autumn/Winter) and June (Spring/Summer). The fashion industry event is held for fashion professionals and fashion occult. It is an event for designers and brands to showcase upcoming collections to press, media, stylists, buyers, fashion trailblazers and, in some cases, the public. In January 2012, London announced that it would dedicate an entire weekend to menswear fashion designers. Singapore dedicated a few days to men's shows. Los Angeles followed suit launching Men's Fashion Week LA in 2012. Additionally,",
+                "score": 18.002186,
+                "title_score": 0,
+                "psg_id": "16467834",
+                "topic": "fashion"
+            },
+            {
+                "title": "Boston Fashion Week",
+                "text": "Director since 1995. In 2012 he was appointed Creative Director of the first Chengdu Fashion Week in China. His work as a fashion designer has graced the pages of Vogue and Elle magazines. He is an instructor and the Director of Creative Marketing at the School of Fashion Design in Boston. He also teaches at the Museum of Fine Arts, Boston, and the Massachusetts College of Art and Design. Each year the Fashion Week returns for one week with all sorts of shows. This is an example of the 2009 Fashion Week Thursday : <br> \"Bay State College Graduate Fashion",
+                "score": 17.983797,
+                "title_score": 0,
+                "psg_id": "17559708",
+                "topic": "fashion"
+            },
+            {
+                "title": "Manchester Fashion Week",
+                "text": "Manchester Fashion Week Manchester Fashion Week is an twice annual independent fashion showcase in Manchester, England. It was founded in 2011 by entrepreneur Jonathan Sassen.[1] Manchester Fashion Week has showcased the talent of designers and brands such as Mulberry, All Saints, and Masato. With satellite events at other times. Manchester Fashion Week is mostly produced by volunteers from across the UK originally, although recently many parts of the business have been contracted to regional partners . The event draws media, celebrities and international fashion bloggers due to a generous hospitality program. With a series of hotel partners and nightclub partners",
+                "score": 17.977453,
+                "title_score": 0,
+                "psg_id": "18144993",
+                "topic": "fashion"
+            },
+            {
+                "title": "India Fashion Week",
+                "text": "March 2014 with actress Shilpa Shetty walking the ramp wearing the collections of designer Tarun Tahiliani. The WIFW spring-summer 2015 event started on 8 October 2014 at New Delhi. The Indian fashion industry has become a growing industry with international events such as the Indian Fashion Week and annual shows by fashion designers being held across major cities of the country. India Fashion Week India Fashion Week is a bi-annual fashion week organized and promoted by the Fashion Design Council of India. It was sponsored by Wills Lifestyle from 2006-2014 before Amazon.in became the sponsor The first event in 2000",
+                "score": 17.940477,
+                "title_score": 0,
+                "psg_id": "10999811",
+                "topic": "fashion"
+            },
+            {
+                "title": "Hayati Fashion Week",
+                "text": "cater to the Nigerian modest industry, a platform to showcase their creativity, passion, and work, directly to their desired audience. The event features Runway shows, exhibitions, and a networking soiree. Hayati Fashion Week Hayati Fashion Week (HFW) is an annual series of events when modest fashion collections from Nigeria and other African countries are shown to the press and general public. HFW was founded by Fatima Togbe in 2017. The inaugural event took place in 2017 and was sponsored by the Medicaid Cancer Foundation (MCF). Other sponsors include Dunes Center, Pandora, Nestle brand Maggi, Vlisco and Arith & Paul. Hayati",
+                "score": 17.891565,
+                "title_score": 0,
+                "psg_id": "20547826",
+                "topic": "fashion"
+            },
+            {
+                "title": "Christian Fashion Week",
+                "text": "workshops and shopping days, culminating in two days of fashion shows in Tampa, Florida. The event was covered by over 40 media outlets, including: The event attracted over 10,000 online viewers and, according to the organization's Facebook page, has led to a Retail Edition of the show in Atlanta during the 2014 International Christian Retail Show, held by the Christian Booksellers Association (CBA) in partnership with Christians In Fashion. Christian Fashion Week Christian Fashion Week (R) (USPTO Registration Numbers 4456872 & 4494390) is an annual fashion show that celebrates fashion from a Christian worldview. It is the first fashion week",
+                "score": 17.877531,
+                "title_score": 0,
+                "psg_id": "17947184",
+                "topic": "fashion"
+            },
+            {
+                "title": "Budapest Fashion Week",
+                "text": "held in the Palazzo Dorottya. The Spring-Summer 2019 edition of Budapest Fashion Week was hosted at the V\u00e1rkert Baz\u00e1r in the capital of Budapest. Budapest Fashion Week's aim is to get together the talented young fashion designers with the innovative brands for a successful and most \u201ctalked about\u201d event for communication and socially responsible purposes. Based on the concept of the international fashion week series, TONI&GUY Fashion Week Budapest is an event, where the leading Hungarian fashion designers gain platform to introduce their seasonal collections twice a year for the Hungarian and international fashion industry and the public as well.",
+                "score": 17.864971,
+                "title_score": 0,
+                "psg_id": "18075447",
+                "topic": "fashion"
+            },
+            {
+                "title": "Manchester Fashion Week",
+                "text": "the higher and lower ends of the market unifying and strengthening all associated. Within 2013, Manchester Fashion Week saw a postponement due to financial restraints, although returned to great success in 2014 with Spring/Summer shows, with a complete new rebranding centred on the hashtag #MCRFW. Producing an Autumn/Winter and a Spring/Summer show over a week period involving local and national business will continue to be the method for collective success. Manchester Fashion Week Manchester Fashion Week is an twice annual independent fashion showcase in Manchester, England. It was founded in 2011 by entrepreneur Jonathan Sassen.[1] Manchester Fashion Week has showcased",
+                "score": 17.836912,
+                "title_score": 0,
+                "psg_id": "18144996",
+                "topic": "fashion"
+            },
+            {
+                "title": "Belgrade Fashion Week",
+                "text": "Belgrade Fashion Week: Belgrade Fashion Week Belgrade Fashion Week is a fashion show held in Belgrade, Serbia twice a year. It is the largest event of its kind in the country. Attracting international buyers and industry experts, the show has helped launch the careers of several Serbian fashion designers, such as George Styler, Ivana Pilja, Ana Ljubinkovic, and Boris Nikolic. British designer Roksanda Ilincic, who is originally from Serbia, has regularly presented her collections at the show since 2002. Italian Vogue has called the festival \"... the most interesting platform in the Balkans for designers and international buyers\". Belgrade Fashion",
+                "score": 17.836639,
+                "title_score": 0,
+                "psg_id": "20665738",
+                "topic": "fashion"
+            },
+            {
+                "title": "China Fashion Week",
+                "text": "China Fashion Week China Fashion Week is an international fashion event held twice a year at various venues in Beijing, China. The event originated in 1997 and hosts professional contests, exhibitions, fashion forums and professional evaluations. The event showcases fashion collections from various designers, including ready-to-wear, accessories, styling and other new designs. The dates for Fashion Week, in March and October, are determined by the China Fashion Federation. To date, 959 fashion shows have been held in Beijing where over 3200 designers and models have contributed from countries such as Japan, Korea, Singapore, France, Italy, United States, Russia, Britain, Switzerland,",
+                "score": 17.830957,
+                "title_score": 0,
+                "psg_id": "16637750",
+                "topic": "fashion"
+            },
+            {
+                "title": "Philippine Fashion Week",
+                "text": "Tent, The Rockwell Tent, InterContinental Manila and Shangri-la Makati. Its early years saw the participation of mostly international fashion brands entering the Philippine market and group show designers presenting capsule collections that took place for 7\u201310 days once a year. Today the Philippine Fashion Week is held at venues like the SMX Convention Center, SM Mall of Asia Arena, SM Mall of Asia, SM Aura with off-site activities at the Peninsula Hotel Manila and Raven Boutique Club. www.philippinefashionweeklive.com Philippine Fashion Week Philippine Fashion Week, (PhFW) is a bi-annual fashion week event held in Manila, Philippines. Dates are determined during the",
+                "score": 17.79542,
+                "title_score": 0,
+                "psg_id": "17378891",
+                "topic": "fashion"
+            },
+            {
+                "title": "Belarus Fashion Week",
+                "text": "Twins Florence Since 2010, the \"Fashion is my Profession\" Forum takes place at the same time as the Belarus Fashion Week. In 2017, more than ten experts from Italy, Germany, the UK, France and Canada discussed the most important issues in the area of journalism, the digital sector, the protection of business in the age of social networks, B2B basics and brand development. Belarus Fashion Week Belarus Fashion Week is an international fashion event held twice a year in Minsk, Belarus. The event originated in 2010 and since has been successfully gathered producers, buyers and representatives of the fashion industry",
+                "score": 17.78776,
+                "title_score": 0,
+                "psg_id": "20516899",
+                "topic": "fashion"
+            },
+            {
+                "title": "Serbia Fashion Week",
+                "text": "long dress. Sales advisor Barbara Locatelli and fashion editor Myra Postolache led some of the educational seminars on business and public relations. Representatives from Vancouver Fashion Week and Holland's Fashionclash show were also in attendance. Serbia Fashion Week Serbia Fashion Week is a fashion show held twice a year in Novi Sad, Serbia. Occurring in April and November, the event attracts local and international fashion designers, such as Thierry Mugler and Anna Fendi. In addition to runway shows, seminars and exhibits, the \"Fashion Talent Design Competition\" helps promote young Serbian designers by showcasing their collections. The seven day festival also",
+                "score": 17.7614,
+                "title_score": 0,
+                "psg_id": "20780276",
+                "topic": "fashion"
+            },
+            {
+                "title": "India Fashion Week",
+                "text": "India Fashion Week India Fashion Week is a bi-annual fashion week organized and promoted by the Fashion Design Council of India. It was sponsored by Wills Lifestyle from 2006-2014 before Amazon.in became the sponsor The first event in 2000 featured the work of 33 designers. There were also over thirty presenters at the Spring Fashion Week in March 2013. In 2010, fire permits were not secured in time for the first day events which caused an extra day to be added to accommodate the presentations that had been cancelled on the first day. The WIFW autumn-winter 2014 started on 26",
+                "score": 17.75358,
+                "title_score": 0,
+                "psg_id": "10999810",
+                "topic": "fashion"
+            },
+            {
+                "title": "Dubai Fashion Week",
+                "text": "the runway include: This event is covered by various national and international media. It is a by invitation only event. Dubai Fashion Week Dubai Fashion Week (DFW) is a fashion week which was held in Dubai, United Arab Emirates. It was launched in 2005 and has presented its last runway on the 24 October 2011. It is owned and organised by a private company; Capital Marketing FZ LLC, an event management company. It was co-founded by Marc Robinson, a well-known international fashion show producer. The event witnessed the launch of some brands: The first Indian designer to open Dubai Fashion",
+                "score": 17.742519,
+                "title_score": 0,
+                "psg_id": "14983079",
+                "topic": "fashion"
+            },
+            {
+                "title": "Copenhagen Fashion Week",
+                "text": "than 50.000 professionals from the fashion industry visit the three fairs. Copenhagen Fashion Week is organised by the three fairs and the company Copenhagen Fashion Week, which aims to promote Danish fashion on international markets. Among the fashion houses that stand out in Copenhagen Fashion Week are Ivan Grundahl, Bruuns Bazaar, Wood Wood, Dagmar of Sweden, By Malene Birger, Henrik Vibskov, Baum und Pferdgarten and Day Birger et Mikkelsen. Gallery show scene has managed to present 150 shows such as Stine Goya, Cheap Monday, Henrik Vibskov and Vivienne Westwood to show her Anglomania collection, making Copenhagen an internationally acclaimed Fashion",
+                "score": 17.738224,
+                "title_score": 0,
+                "psg_id": "15649322",
+                "topic": "fashion"
+            },
+            {
+                "title": "Belgrade Fashion Week",
+                "text": "Belgrade Fashion Week Belgrade Fashion Week is a fashion show held in Belgrade, Serbia twice a year. It is the largest event of its kind in the country. Attracting international buyers and industry experts, the show has helped launch the careers of several Serbian fashion designers, such as George Styler, Ivana Pilja, Ana Ljubinkovic, and Boris Nikolic. British designer Roksanda Ilincic, who is originally from Serbia, has regularly presented her collections at the show since 2002. Italian Vogue has called the festival \"... the most interesting platform in the Balkans for designers and international buyers\". Belgrade Fashion Week was founded",
+                "score": 17.716341,
+                "title_score": 0,
+                "psg_id": "20665732",
+                "topic": "fashion"
+            },
+            {
+                "title": "Belarus Fashion Week",
+                "text": "Belarus Fashion Week Belarus Fashion Week is an international fashion event held twice a year in Minsk, Belarus. The event originated in 2010 and since has been successfully gathered producers, buyers and representatives of the fashion industry for professional communication, discussions of cooperation and presenting the activities and development of this industry in the country and abroad. First season of BFW was held in Minsk in the fall of 2010 and since then it created favorable conditions for Belarusian designers to demonstrate their creative potential In 2017 Belarus Fashion Week welcomed two international fashion designers: London\u2019s Longshaw Ward and Italy\u2019s",
+                "score": 17.675852,
+                "title_score": 0,
+                "psg_id": "20516898",
+                "topic": "fashion"
+            },
+            {
+                "title": "Miami Fashion Week",
+                "text": "wear, menswear and intimate wear departments, focusing on Resort Wear due to the city's close proximity to the ocean and it being a travel destination to many international visitors. In May 2015 the company was acquired by The Fashion Shows and began an aggressive and innovative strategic relaunching plan for the event with the goal to revolutionize the fashion industry in the city of Miami. The brand then welcomed Antonio Banderas as its Honorary President in order to heighten the event in the top international fashion circuit. Miami Fashion Week Miami Fashion Week is an annual fashion week held in",
+                "score": 17.674099,
+                "title_score": 0,
+                "psg_id": "12195715",
+                "topic": "fashion"
+            },
+            {
+                "title": "Paris Fashion Week",
+                "text": "Paris Fashion Week Paris Fashion Week () is a series of designer presentations held semiannually in Paris, France with spring/summer and autumn/winter events held each year. Dates are determined by the French Fashion Federation. Paris Fashion Week is held at venues throughout the city. It is widely considered the most prestigious of the Big Four Fashion Weeks. In addition to ready-to-wear shows, there are men's and haute couture shows, which are held semiannually for the spring/summer and autumn/winter seasons. Also, every year, famous brands like Dior, Chanel, Louis Vuitton, Givenchy, and C\u00e9line host their shows in historical places such as",
+                "score": 17.664881,
+                "title_score": 0,
+                "psg_id": "10070210",
+                "topic": "fashion"
+            },
+            {
+                "title": "Colombo Fashion Week",
+                "text": "Colombo Fashion Week Colombo Fashion Week was conceived in 2003, as a project that was focused on uplifting Sri Lanka's fashion design industry. Today it is firmly established as the backbone of Sri Lanka's fashion design industry and in its journey of over a decade it has taken Sri Lanka's fashion design industry from strength to strength. CFW as its popularly known is probably one of 3 fashion weeks in Asia that is over ten years. It is developmental in its nature, which covers every aspect of a fashion design industry from grooming young designer at college level, to guiding",
+                "score": 17.62005,
+                "title_score": 0,
+                "psg_id": "17210593",
+                "topic": "fashion"
+            },
+            {
+                "title": "Colombo Fashion Week",
+                "text": "Colombo Fashion Week Colombo Fashion Week was conceived in 2003, as a project that was focused on uplifting Sri Lanka's fashion design industry. Today it is firmly established as the backbone of Sri Lanka's fashion design industry and in its journey of over a decade it has taken Sri Lanka's fashion design industry from strength to strength. CFW as its popularly known is probably one of 3 fashion weeks in Asia that is over ten years. It is developmental in its nature, which covers every aspect of a fashion design industry from grooming young designer at college level, to guiding",
+                "score": 17.62005,
+                "title_score": 0,
+                "psg_id": "17210588",
+                "topic": "fashion"
+            },
+            {
+                "title": "Boston Fashion Week",
+                "text": "participating in an educational program or joining in the festivities at a party. The week also contributes to a sense of civic pride about what the region has to offer and how it continues to evolve. The Boston Fashion Week was founded by Jay Calderin in 1995.<br> Unlike other global fashion events such as the New York Fashion Week, Boston Fashion Week is a non-profit event with a low budget, that focuses on showcasing mainly local designers. However, the event was put on hiatus in 2004 because Jay Calderin felt that the show didn't match the quality of the clothes",
+                "score": 17.583994,
+                "title_score": 0,
+                "psg_id": "17559705",
+                "topic": "fashion"
+            }
+        ]
+    }
+]
